@@ -1,4 +1,4 @@
-# posts_carlos — Central Content Repository
+# Carlos Posts
 
 Single source of truth for all blog content.
 
