@@ -75,15 +75,6 @@ Then run:
 node scripts/generate-json.js
 ```
 
-## JSON API
-
-The file `dist/posts.json` is generated automatically. Your portfolio fetches it like this:
-
-```javascript
-fetch("https://seu-dominio.com/posts.json")
-  .then(res => res.json())
-  .then(posts => render(posts));
-```
 
 ## Front Matter Fields
 
