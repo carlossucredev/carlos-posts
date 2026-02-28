@@ -16,8 +16,3 @@ I have always answered these questions based on my context and every time these 
 ## What is the best decision?
 
 Now I should make a decision "studying or not at university?" and the purpose of this post is not make a decision but rather learn how to think, what to think to reach the best decision.
-
-
-![Carros: marzo 2025](https://s2.glbimg.com/aX9T2eUfTdUE7z9a7j6vaN4BTK4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2022/1/7/a7jDIJSDmnTUPFaWbAPA/byd-song-plus-2-.jpg)
-
-this is genial
