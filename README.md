@@ -38,16 +38,11 @@ node scripts/new-post.js "Título do Novo Post"
 posts_carlos/
 ├── content/
 │   ├── posts/          ← All blog posts (.md)
-│   └── pages/          ← Static pages (about, etc.)
 ├── scripts/
 │   ├── generate-json.js  ← Generates dist/posts.json
 │   └── new-post.js       ← CLI to scaffold new posts
-├── dist/
-│   └── posts.json      ← Static JSON API (auto-generated)
-├── hugo.toml           ← Hugo configuration
-├── package.json
-└── .github/workflows/
-    └── build.yml       ← CI/CD pipeline
+└── .github/workflows/build.yml       ← CI/CD pipeline
+    
 ```
 
 ## Adding a New Post
