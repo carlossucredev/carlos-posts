@@ -1,11 +1,11 @@
 ---
 title: "University or not?"
-slug: "university-or-not"
 date: 2026-02-28
+slug: "university-or-not"
 summary: "Now I should make a decision "studying or not at university?" and the purpose of this post is not make a decision but rather learn how to think, what to think to reach the best decision."
-draft: true
 tags: ["University", "Decision"]
--
+draft: true
+featured: false
 ---
 # University or not?
 
