@@ -59,3 +59,4 @@ Encerre com as principais conclusões.
 fs.writeFileSync(filepath, template, "utf-8");
 console.log(`✅ Post criado: content/posts/${filename}`);
 console.log(`📝 Edite o arquivo e mude "draft: true" para "draft: false" quando estiver pronto.`);
+
