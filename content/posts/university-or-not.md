@@ -9,9 +9,17 @@ featured: false
 ---
 # University or not?
 
-This question has been bothering me for many days, and I want to respond to it. However, it also reminds me of other questions I've asked myself when making important decisions in my life, for example: do I have to move to another city to get a job? Should I get married?  Should I continue playing baseball, or should I give up? Should I move to another country?
-
-I have always answered these questions based on my context and every time these questions take up a lot of my time, not just when I was actively thinking about it, but also when I shouldn't be thinking about it (at work, at school, on the way anywhere), when I have one important decision in my head, my brain uses a lot of processing power until I make the decision, and don't tell me I should write this down somewhere to free my memory, trust me, I already tried. So I need to make the decision fast and correctly.
+This question has been living rent-free in my head for days. And it reminds me of every other heavy decision I've faced: move to another city for work? Get married? Keep playing baseball or walk away? Leave the country?
+These decisions are exhausting not just because they're hard — but because your brain won't clock out. You're thinking about them at work, on the commute, mid-conversation. And I've learned that the only way to free yourself is to decide. Fast, and well.
+So here's what I've learned after making all those calls:
+There is no universally best decision. There is only the best decision for your context, right now, with what you have.
+Which means when I face "university or not?" I stop hunting for the right answer and start asking sharper questions:
+What door specifically does a degree open that I can't open another way? What's the real cost — not just money, but time, opportunity, momentum? And honestly — am I considering this because it moves me forward, or because I'm afraid of what people will think if I don't?
+That last question cuts through everything.
+I've seen CS graduates unemployed and people without degrees leading engineering teams. The degree was never the variable. The variable was always how clearly they understood what they were building toward.
+So I'm not going to tell you whether to go to university or not. That's not my call.
+But I will say this: if the answer isn't clear yet, you're probably still asking the wrong question.
+Keep asking. You'll get there.
 
 ## What is the best decision?
 
